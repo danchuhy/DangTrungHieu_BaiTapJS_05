@@ -1,0 +1,47 @@
+body{
+    background-color: #f8f9fa;
+}
+.container{
+    width: 480px;
+}
+.nav{
+}
+.nav-pills .nav-link{
+    padding: 12px;
+}
+.nav-pills .nav-link.active{
+    background-color: #bcbcbc;
+}
+.tab-pane{
+    background-color: white;
+    padding: 32px;
+    border-radius: 0 0 16px 16px;
+    border-left: 1px solid #dee2e6;
+    border-right: 1px solid #dee2e6;
+    border-bottom: 1px solid #dee2e6;
+
+
+}
+h1{
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 28px;
+}
+.form{
+    max-width: 480px;
+}
+.btn-primary{
+    margin-top: 12px;
+    height: 48px;
+    border-radius: 24px;
+}
+.resultContainer{
+    margin-top: 32px;
+}
+.result{
+    width: 100%;
+    padding: 24px;
+    
+    background-color: #f5f4f4;
+    border-radius: 16px;
+}
